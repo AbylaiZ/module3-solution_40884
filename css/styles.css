@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.content-box {
+  background-color: #f2f2f2;
+  padding: 20px;
+  height: 1000px; /* чтобы точно был скролл */
+}
